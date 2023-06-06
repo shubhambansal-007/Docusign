@@ -1,0 +1,16 @@
+indexes:
+
+- kind: valid_urls
+  properties:
+  - name: Time
+  - name: URL
+
+- kind: inValid_urls
+  properties:
+  - name: Time
+  - name: URL
+
+- kind: phone
+  properties:
+  - name: private_key
+  - name: public_key

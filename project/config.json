@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": ":1001",
+    "projectID": "urlmanager-386505",
+    "valid_kind": "valid_urls",
+    "invalid_kind": "inValid_urls",
+    "text": "validURL.txt"
+}    

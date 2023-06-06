@@ -1,0 +1,6 @@
+service: urlmanager
+runtime: go120
+handlers:
+  - url: /.*
+    secure: always
+    script: auto

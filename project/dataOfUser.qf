@@ -1,0 +1,1 @@
+{"header":{"algo":"sha-256","api":"AES-GCM","ext":"qf","fileType":"text/plain","fileName":"hello.txt"},"payload":"487e14db2babe860c009d0d3192e6b4f79c30c72c6471ec6377cb346af4505561d8e9ad890ab383c","signature":"e68ee6fdd2b5e72127cd8c88806b955c8b9821955e53e5ad73ff9b278fb48bb892f5768d7c44dd60f9def929fbed464526456981b59ccfea50beb4358e7daa02"}
